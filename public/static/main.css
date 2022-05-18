@@ -1,0 +1,65 @@
+body {
+	font-family: 'HN', 'Inter'; 
+	font-weight: 400;
+	margin: 0;
+	outline: none;
+	outline-style: none;
+	box-shadow: none;
+	color: #111111;
+}
+
+a {
+	text-decoration: none;
+	color: #111111;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+textarea {  
+	font-family: 'Inter';
+	font-style: regular;
+	font-weight: 400;  
+}
+
+input {  
+	font-family: 'Inter';
+	font-style: regular;
+	font-weight: 400;  
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: lighter;
+	font-weight: 300;
+	src: url(/fonts/Inter/Inter-Light.ttf);
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: regular;
+	font-weight: 400;
+	src: url(/fonts/Inter/Inter-Regular.ttf);
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: medium;
+	font-weight: 600;
+	src: url(/fonts/Inter/Inter-Medium.ttf);
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: bold;
+	font-weight: 800;
+	src: url(/fonts/Inter/Inter-Bold.ttf);
+	font-display: swap;
+}
+  

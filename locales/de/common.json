@@ -1,0 +1,24 @@
+{
+    "navbar": {
+        "main": "Hauptseite",
+        "ourPrinciples": "unsere Grundsätze",
+        "contact": "Kontakt",
+        "button": "ANFANGEN"
+    },
+    "contactForm": {
+        "title": "Kontakt",
+        "name": "Name*",
+        "mail": "Email*",
+        "subject": {
+            "placeholder": "Thema*",
+            "one": "ein Angebot anfordern",
+            "two": "Termin vereinbaren",
+            "three": "allgemeine Frage",
+            "four": "Sonstiges"
+        },
+        "message": "Ihre Nachricht*",
+        "button": "Senden",
+        "errorMail": "Kein Mailformat",
+        "errorRequired": "Pflichtfeld" 
+    }
+}

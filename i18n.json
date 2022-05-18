@@ -1,0 +1,10 @@
+{
+    "locales": ["en", "de", "ru"],
+    "defaultLocale": "en",
+    "pages": {
+      "*": ["common"],
+      "/": ["main"],
+      "/contact": ["contact"],
+      "/ourPrinciples": ["ourPrinciples"]
+    }
+  }

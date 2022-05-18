@@ -1,0 +1,24 @@
+{
+    "navbar": {
+        "main": "main",
+        "ourPrinciples": "ourPrinciples",
+        "contact": "contact",
+        "button": "GET IN TOUCH"
+    },
+    "contactForm": {
+        "title": "Contact Us",
+        "name": "Name*",
+        "mail": "Email*",
+        "subject": {
+            "placeholder": "Subject*",
+            "one": "Ask for Quotation",
+            "two": "Schedule a meeting",
+            "three": "General Question",
+            "four": "Other"
+        },
+        "message": "Your message*",
+        "button": "SEND",
+        "errorMail": "Not mail format",
+        "errorRequired": "Required field" 
+    }
+}
